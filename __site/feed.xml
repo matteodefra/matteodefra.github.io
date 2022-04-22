@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:media="http://search.yahoo.com/mrss/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:georss="http://www.georss.org/georss">
+
+  <channel>
+    <title>
+      <![CDATA[  Welcome  ]]>
+    </title>
+    <link> https://matteodefra.github.io </link>
+    <description>
+      <![CDATA[  A blog about statistics, programming and more  ]]>
+    </description>
+    <atom:link
+      href="https://matteodefra.github.io/feed.xml"
+      rel="self"
+      type="application/rss+xml" />
+
+
+<item>
+  <title>
+    <![CDATA[  404  ]]>
+  </title>
+  <link> https://matteodefra.github.io/404/index.html </link>
+  <guid> https://matteodefra.github.io/404/index.html </guid>
+  <description>
+    <![CDATA[  Page not found  ]]>
+  </description>  
+    
+  <pubDate>Fri, 22 Apr 2022 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Matteo De Francesco</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  Projects  ]]>
+  </title>
+  <link> https://matteodefra.github.io/projects/index.html </link>
+  <guid> https://matteodefra.github.io/projects/index.html </guid>
+  <description>
+    <![CDATA[  My personal projects  ]]>
+  </description>  
+    
+  <pubDate>Fri, 22 Apr 2022 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Matteo De Francesco</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  Home  ]]>
+  </title>
+  <link> https://matteodefra.github.io/index.html </link>
+  <guid> https://matteodefra.github.io/index.html </guid>
+  <description>
+    <![CDATA[  Blog posts about computer science, mathematics, research and related topics  ]]>
+  </description>  
+    
+  <pubDate>Fri, 22 Apr 2022 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Matteo De Francesco</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  About  ]]>
+  </title>
+  <link> https://matteodefra.github.io/about/index.html </link>
+  <guid> https://matteodefra.github.io/about/index.html </guid>
+  <description>
+    <![CDATA[  About Me  ]]>
+  </description>  
+    
+  <pubDate>Fri, 22 Apr 2022 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Matteo De Francesco</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  Posts  ]]>
+  </title>
+  <link> https://matteodefra.github.io/blog/index.html </link>
+  <guid> https://matteodefra.github.io/blog/index.html </guid>
+  <description>
+    <![CDATA[  My Posts  ]]>
+  </description>  
+    
+  <pubDate>Fri, 22 Apr 2022 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Matteo De Francesco</atom:name>
+  </atom:author>
+        
+</item>
+</channel></rss>
