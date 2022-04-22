@@ -42,6 +42,25 @@
 
 <item>
   <title>
+    <![CDATA[  Posts  ]]>
+  </title>
+  <link> https://matteodefra.github.io/blog/index.html </link>
+  <guid> https://matteodefra.github.io/blog/index.html </guid>
+  <description>
+    <![CDATA[  My Posts  ]]>
+  </description>  
+    
+  <pubDate>Fri, 22 Apr 2022 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Matteo De Francesco</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
     <![CDATA[  Projects  ]]>
   </title>
   <link> https://matteodefra.github.io/projects/index.html </link>
@@ -86,25 +105,6 @@
   <guid> https://matteodefra.github.io/about/index.html </guid>
   <description>
     <![CDATA[  About Me  ]]>
-  </description>  
-    
-  <pubDate>Fri, 22 Apr 2022 00:00:00 +0000</pubDate>  
-  
-  
-  <atom:author>
-    <atom:name>Matteo De Francesco</atom:name>
-  </atom:author>
-        
-</item>
-
-<item>
-  <title>
-    <![CDATA[  Posts  ]]>
-  </title>
-  <link> https://matteodefra.github.io/blog/index.html </link>
-  <guid> https://matteodefra.github.io/blog/index.html </guid>
-  <description>
-    <![CDATA[  My Posts  ]]>
   </description>  
     
   <pubDate>Fri, 22 Apr 2022 00:00:00 +0000</pubDate>  
