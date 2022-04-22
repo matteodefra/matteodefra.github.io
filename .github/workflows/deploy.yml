@@ -21,7 +21,7 @@ jobs:
     # packages such as PyPlot.
     # - run: pip install matplotlib
     - name: Install Julia
-      uses: julia-actions/setup-julia@v1
+      uses: julia-actions/setup-julia@v1.7.1
       with:
         version: 1.6
     # NOTE
