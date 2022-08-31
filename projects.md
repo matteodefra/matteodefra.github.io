@@ -36,7 +36,7 @@ Source: [GitHub](https://github.com/matteodefra/ISPR_assignments)
 
 ![ISPR](/assets/project_pics/ispr.png)
 
-Assignments for the course "Intelligent Systems for Pattern Recognition". The picture resumes the 4 different topics trated in the assignments:
+Assignments for the course "Intelligent Systems for Pattern Recognition". The picture resumes the 4 different topics treated in the assignments:
 - Analysis of a time series, study of stationarity/nonstationarity and fitting of an ARMA model;
 - Implementation of a Bayesian Network from scratch with relative Conditional Probability Tables and implementation of ancestral sampling over it;
 - Implementation of a shallow and deep autoencoder with layerwise pretraining and optional finetuning. On the trained autoencoder, latent space interpolation and gradient ascent manifold assumption were tested;

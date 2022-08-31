@@ -20,9 +20,9 @@ You can download my resumé [here](assets/resume.pdf)
 
 ## Current Experience
 
-I am currently involved in a national project funded by the Italian Ministry of Justice.    
-The project is entitled "Giustizia Agile", and it's part of an European project called "PNRR". Its aim is to bring benefits to the "Ufficio per il Processo", one section of the italian law courts.    
-The focus is to improve the efficiency of the courts by analyzing the current state of the art of the ICT systems and propose suitable solution to improve them, for the courts located in Pisa, Leghorn and Lucca.
+I am currently in Palaiseau, France, where I'm developing my Master's thesis as an Intern Trainee at the EdF Lab Paris-Saclay, in the R&D section of the OSIRIS (Optimisation Simulation Risques et Statistiques) departement.
+
+At the OSIRIS departement, optimization is the basis subject to improve the current state-of-the-art of most optimization algorithms.
 
 
 <!-- ## Posts

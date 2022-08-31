@@ -38,12 +38,39 @@ Take a look at my Github and LinkedIn page!
 <div class=card-body>
   <div class="columns">
       <div class="icon">
+          <img src="/assets/edf-2.svg" alt="">
+      </div>
+      <div class="rest">
+          <h4 class="card-title exp-title text-muted mt-0 mb-1">Intern Trainee</h4>
+          <h4 class="card-title exp-company text-muted my-0">EdF R&D, Paris-Saclay</h4>
+          <h5 class="text-muted exp-meta">Sep. 2022 – Present
+          <!-- <span class=middot-divider></span><span>Palaiseau, France</span> -->
+          </h5>
+      </div>
+  </div>
+  <div class=card-text>
+  ~~~
+  * Internship at the EdF Lab Paris-Saclay, in the OSIRIS (Optimisation Simulation Risques et Statistiques) departement
+  * The aim of the internship is to develop my Master's thesis side by side with important figures in the Operations Research field, an important matter which is always evolving here
+  ~~~
+  </div>
+  ~~~
+~~~  
+</div>
+~~~
+
+---
+
+~~~
+<div class=card-body>
+  <div class="columns">
+      <div class="icon">
           <img src="/assets/unipi.svg" alt="">
       </div>
       <div class="rest">
           <h4 class="card-title exp-title text-muted mt-0 mb-1">Research Fellow</h4>
           <h4 class="card-title exp-company text-muted my-0">University of Pisa</h4>
-          <h5 class="text-muted exp-meta">Apr. 2022 – Present
+          <h5 class="text-muted exp-meta">Apr. 2022 – Aug. 2022
           <!-- <span class=middot-divider></span><span>Pisa, Italy</span> -->
           </h5>
       </div>
