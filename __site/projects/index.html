@@ -1,1 +1,120 @@
-<!doctype html> <html lang=en > <meta charset=UTF-8 > <meta name=viewport  content="width=device-width, initial-scale=1"> <link rel=stylesheet  href="/libs/katex/katex.min.css"> <link rel=stylesheet  href="/css/franklin.css"> <link rel=stylesheet  href="/css/basic.css"> <link rel=icon  href="/assets/favicon.png"> <title> Projects </title> <meta property="og:title" content=Projects  /> <meta property="og:description" content="My personal projects" /> <meta name="twitter:title" content=Projects  /> <meta name="twitter:card" content=summary  /> <header> <div class=blog-name ><a href="/">@matteodefra</a></div> <nav> <ul> <li><a href="/about/">About</a> <li><a href="/blog/">Blog</a> <li><a href="/projects/">Projects</a> <!-- <li><a type="application/rss+xml" href="https://huijzer.xyz/feed.xml"> <img class=rss-icon  src="/assets/feed.svg"> </a> --> </ul> </nav> </header> <div class=franklin-content > </div> <div class=franklin-content > <h1 id=projects ><a href="#projects" class=header-anchor >Projects</a></h1> <p>Here you can find my projects developed for the different M.Sc. courses and also for my personal experience during my spare time.</p> <h2 id=quadratic_disjoint_simplices ><a href="#quadratic_disjoint_simplices" class=header-anchor >Quadratic Disjoint Simplices</a></h2> <p>Source: <a href="https://github.com/matteodefra/Quadratic_disjoint_simplices">Github</a></p> <p><img src="/assets/project_pics/quadratic.png" alt=Quadratic  /></p> <p>Computational Mathematics and Optimization course. I first developed a theoretical analysis of the ADAGRAD algorithm with its convergence properties, then based on these I implemented a solver from scratch to find the minimum of a quadratic objective function subject to disjoint simplices constraint.</p> <p>The picture above show exactly a simple 3D illustration of what we mean: a paraboloid function &quot;cut&quot; by different hyperplanes, depending on the variables involved in the simplex.</p> <hr /> <h2 id=parallel_boruvka ><a href="#parallel_boruvka" class=header-anchor >Parallel Boruvka</a></h2> <p>Source: <a href="https://github.com/matteodefra/Parallel_Boruvka">GitHub</a></p> <p><img src="/assets/project_pics/boruvka.png" alt=Boruvka  /></p> <p>Parallel and Distributed System course. A parallel implementation of the ”Boruvka algorithm”, for finding the Minimum Spanning Tree of a given graph. I studied topics from the original paper, and I exploited also an ad hoc data structure to deal with this kind of problem, known as ”Disjoint Sets”. I exploited the C&#43;&#43; language and its basic functionalities</p> <hr /> <h2 id=ispr_assignments ><a href="#ispr_assignments" class=header-anchor >ISPR assignments</a></h2> <p>Source: <a href="https://github.com/matteodefra/ISPR_assignments">GitHub</a></p> <p><img src="/assets/project_pics/ispr.png" alt=ISPR  /></p> <p>Assignments for the course &quot;Intelligent Systems for Pattern Recognition&quot;. The picture resumes the 4 different topics treated in the assignments:</p> <ul> <li><p>Analysis of a time series, study of stationarity/nonstationarity and fitting of an ARMA model;</p> <li><p>Implementation of a Bayesian Network from scratch with relative Conditional Probability Tables and implementation of ancestral sampling over it;</p> <li><p>Implementation of a shallow and deep autoencoder with layerwise pretraining and optional finetuning. On the trained autoencoder, latent space interpolation and gradient ascent manifold assumption were tested;</p> <li><p>Review of the paper &quot;Trust Region Policy Optimization&quot; in the context of Reinforcement Learning, prepared a small presentation to capture the key aspects of it.</p> </ul> <p>Everything was implemented in Python language through the use of notebooks</p> <hr /> <h2 id=goemotions ><a href="#goemotions" class=header-anchor >GoEmotions</a></h2> <p>Source: <a href="https://github.com/matteodefra/GoEmotions">GitHub</a></p> <p><img src="/assets/project_pics/bert.jpeg" alt=BERT  /></p> <p>Exploited different BERT based models for a sentiment analysis task over the GoEmotions dataset.</p> <hr /> <h2 id=csrae ><a href="#csrae" class=header-anchor >CSRAE</a></h2> <p>Source: <a href="https://github.com/matteodefra/csrae">GitHub</a></p> <p><img src="/assets/project_pics/csrae.png" alt=CSRAE  /></p> <p>Implementation of a Cauchy-Schwarz Regularized Autoencoder. Following the paper from <a href="https://arxiv.org/pdf/2101.02149.pdf">arxiv</a>, I implemented a variational autoencoder based on the Cauchy-Schwarz divergence, exploiting the PyTorch library. The more versatility of the divergence allows for the use of more complex priors like a gaussian mixture models against the normal gaussian used.</p> <hr /> <h2 id=smartpark ><a href="#smartpark" class=header-anchor >SmartPark</a></h2> <p>Source: <a href="https://github.com/matteodefra/SmartPark">Github</a></p> <p><img src="/assets/project_pics/smartpark.png" alt=Smartpark  /></p> <p>I developed an intelligent Smart park for bycicles using the different IoT protocol stack. The aim was to synchronize locks intelligently through the use of sensors located above the parking spots. The sensors were programmed using the C language, exploiting the connection at the IPv6 layer, having two different purpose: locking and logging. The server was implemented in Python, receiving data from the CoAP sensors &#40;locking&#41; and MQTT sensors &#40;logging&#41;.</p> <hr /> <h3 id=stay_tuned_for_incoming_projects ><a href="#stay_tuned_for_incoming_projects" class=header-anchor >Stay tuned for incoming projects&#33;</a></h3> <div class=page-foot > <div class=copyright > Matteo De Francesco. The text is licensed under <a href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>. The code is licensed under the <a href="https://mit-license.org/">MIT License</a>. Website built with <a href="https://github.com/tlienart/Franklin.jl">Franklin.jl</a> and the <a href="https://julialang.org">Julia programming language</a>. Last update: 2023-03-04. </div> </div> </div> <script src="/libs/katex/katex.min.js"></script> <script src="/libs/katex/auto-render.min.js"></script> <script> const options = { delimiters: [ {left: "$$", right: "$$", display: true}, {left: "$", right: "$", display: false}, {left: "\\begin{equation}", right: "\\end{equation}", display: true}, {left: "\\begin{align}", right: "\\end{align}", display: true}, {left: "\\begin{alignat}", right: "\\end{alignat}", display: true}, {left: "\\begin{gather}", right: "\\end{gather}", display: true}, {left: "\\(", right: "\\)", display: false}, {left: "\\[", right: "\\]", display: true} ] }; renderMathInElement(document.body, options); </script>
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="/libs/katex/katex.min.css">
+
+  
+  <link rel="stylesheet" href="/css/franklin.css">
+  <link rel="stylesheet" href="/css/basic.css">
+  <link rel="icon" href="/assets/favicon.png">
+   <title> Projects </title> 
+  
+
+  <meta property="og:title" content="Projects" />
+  
+  <meta property="og:description" content="My personal projects" />
+  <!-- <meta property="og:image" content="{{website_url}}{{requiredfill image}}" /> -->
+
+  <meta name="twitter:title" content="Projects" />
+  <meta name="twitter:card" content="summary" />
+  <!-- <meta name="twitter:creator" content="@rikhuijzer"/> -->
+</head>
+<body>
+  <header>
+<div class="blog-name"><a href="/">@matteodefra</a></div>
+<nav>
+  <ul>
+    <li><a href="/about/">About</a></li>
+    <li><a href="/blog/">Blog</a></li>
+    <li><a href="/projects/">Projects</a></li>
+    <!-- <li><a type="application/rss+xml" href="https://huijzer.xyz/feed.xml">
+      <img class="rss-icon" src="/assets/feed.svg">
+      </a></li> -->
+  </ul>
+</nav>
+</header>
+
+
+<div class="franklin-content">
+  
+  
+</div>
+<div class="franklin-content">
+<h1 id="projects"><a href="#projects" class="header-anchor">Projects</a></h1>
+<p>Here you can find my projects developed for the different M.Sc. courses and also for my personal experience during my spare time.</p>
+<h2 id="quadratic_disjoint_simplices"><a href="#quadratic_disjoint_simplices" class="header-anchor">Quadratic Disjoint Simplices</a></h2>
+<p>Source: <a href="https://github.com/matteodefra/Quadratic_disjoint_simplices">Github</a></p>
+<p><img src="/assets/project_pics/quadratic.png" alt="Quadratic" /></p>
+<p>Computational Mathematics and Optimization course. I first developed a theoretical analysis of the ADAGRAD algorithm with its convergence properties, then based on these I implemented a solver from scratch to find the minimum of a quadratic objective function subject to disjoint simplices constraint.</p>
+<p>The picture above show exactly a simple 3D illustration of what we mean: a paraboloid function &quot;cut&quot; by different hyperplanes, depending on the variables involved in the simplex.</p>
+<hr />
+<h2 id="parallel_boruvka"><a href="#parallel_boruvka" class="header-anchor">Parallel Boruvka</a></h2>
+<p>Source: <a href="https://github.com/matteodefra/Parallel_Boruvka">GitHub</a></p>
+<p><img src="/assets/project_pics/boruvka.png" alt="Boruvka" /></p>
+<p>Parallel and Distributed System course. A parallel implementation of the ”Boruvka algorithm”, for finding the Minimum Spanning Tree of a given graph. I studied topics from the original paper, and I exploited also an ad hoc data structure to deal with this kind of problem, known as ”Disjoint Sets”. I exploited the C&#43;&#43; language and its basic functionalities</p>
+<hr />
+<h2 id="ispr_assignments"><a href="#ispr_assignments" class="header-anchor">ISPR assignments</a></h2>
+<p>Source: <a href="https://github.com/matteodefra/ISPR_assignments">GitHub</a></p>
+<p><img src="/assets/project_pics/ispr.png" alt="ISPR" /></p>
+<p>Assignments for the course &quot;Intelligent Systems for Pattern Recognition&quot;. The picture resumes the 4 different topics treated in the assignments:</p>
+<ul>
+<li><p>Analysis of a time series, study of stationarity/nonstationarity and fitting of an ARMA model;</p>
+</li>
+<li><p>Implementation of a Bayesian Network from scratch with relative Conditional Probability Tables and implementation of ancestral sampling over it;</p>
+</li>
+<li><p>Implementation of a shallow and deep autoencoder with layerwise pretraining and optional finetuning. On the trained autoencoder, latent space interpolation and gradient ascent manifold assumption were tested;</p>
+</li>
+<li><p>Review of the paper &quot;Trust Region Policy Optimization&quot; in the context of Reinforcement Learning, prepared a small presentation to capture the key aspects of it.</p>
+</li>
+</ul>
+<p>Everything was implemented in Python language through the use of notebooks</p>
+<hr />
+<h2 id="goemotions"><a href="#goemotions" class="header-anchor">GoEmotions</a></h2>
+<p>Source: <a href="https://github.com/matteodefra/GoEmotions">GitHub</a></p>
+<p><img src="/assets/project_pics/bert.jpeg" alt="BERT" /></p>
+<p>Exploited different BERT based models for a sentiment analysis task over the GoEmotions dataset.</p>
+<hr />
+<h2 id="csrae"><a href="#csrae" class="header-anchor">CSRAE</a></h2>
+<p>Source: <a href="https://github.com/matteodefra/csrae">GitHub</a></p>
+<p><img src="/assets/project_pics/csrae.png" alt="CSRAE" /></p>
+<p>Implementation of a Cauchy-Schwarz Regularized Autoencoder. Following the paper from <a href="https://arxiv.org/pdf/2101.02149.pdf">arxiv</a>, I implemented a variational autoencoder based on the Cauchy-Schwarz divergence, exploiting the PyTorch library. The more versatility of the divergence allows for the use of more complex priors like a gaussian mixture models against the normal gaussian used.</p>
+<hr />
+<h2 id="smartpark"><a href="#smartpark" class="header-anchor">SmartPark</a></h2>
+<p>Source: <a href="https://github.com/matteodefra/SmartPark">Github</a></p>
+<p><img src="/assets/project_pics/smartpark.png" alt="Smartpark" /></p>
+<p>I developed an intelligent Smart park for bycicles using the different IoT protocol stack. The aim was to synchronize locks intelligently through the use of sensors located above the parking spots. The sensors were programmed using the C language, exploiting the connection at the IPv6 layer, having two different purpose: locking and logging. The server was implemented in Python, receiving data from the CoAP sensors &#40;locking&#41; and MQTT sensors &#40;logging&#41;.</p>
+<hr />
+<h3 id="stay_tuned_for_incoming_projects"><a href="#stay_tuned_for_incoming_projects" class="header-anchor">Stay tuned for incoming projects&#33;</a></h3>
+<div class="page-foot">
+  <div class="copyright">
+    Matteo De Francesco.
+    The text is licensed under <a href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.
+    The code is licensed under the <a href="https://mit-license.org/">MIT License</a>.
+    Website built with <a href="https://github.com/tlienart/Franklin.jl">Franklin.jl</a> and the <a href="https://julialang.org">Julia programming language</a>.
+    Last update: 2023-10-14.
+  </div>
+</div>
+</div><!-- CONTENT ENDS HERE -->
+    <script src="/libs/katex/katex.min.js"></script>
+<script src="/libs/katex/auto-render.min.js"></script>
+<script>
+  const options = {
+    delimiters: [
+      {left: "$$", right: "$$", display: true},
+      {left: "$", right: "$", display: false},
+      {left: "\\begin{equation}", right: "\\end{equation}", display: true},
+      {left: "\\begin{align}", right: "\\end{align}", display: true},
+      {left: "\\begin{alignat}", right: "\\end{alignat}", display: true},
+      {left: "\\begin{gather}", right: "\\end{gather}", display: true},
+      {left: "\\(", right: "\\)", display: false},
+      {left: "\\[", right: "\\]", display: true}
+    ]
+  };
+  renderMathInElement(document.body, options);
+</script>
+
+    
+  </body>
+</html>

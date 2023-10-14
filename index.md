@@ -17,9 +17,7 @@ Take a look at [about](/about) for more information about me.
 
 I like the applications of operations research to find algorithmic solutions to arbitrary complex problems, sum-structured 
 functions and learning problem as what happens in Deep Learning.
-My main interests reside in Optimization, Algorithms, Reinforcement Learning and Probabilistic models for Deep Learning.
-
-I am also interested in the recent Quantum Computing capabilities.
+My main interests reside in Quantum Computing, Optimization, Algorithms, Reinforcement Learning and Probabilistic models for Deep Learning.
 
 You can download my resumé [here](assets/resume.pdf)
 

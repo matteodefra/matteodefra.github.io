@@ -4,41 +4,86 @@ rss = "About Me"
 image = "/assets/about/output/basic-plot.svg"
 +++
 
-Master's Degree student in Computer Science at University of Pisa. You can contact me directly here
+Graduated student in Computer Science at University of Pisa. Contact me and feel free to have a look at my Github and LinkedIn page!
 
-```
-<a href="mailto:matteo0598@gmail.com">matteo0598@gmail.com</a>.
-```
-
-Take a look at my Github and LinkedIn page!
-
-```
-<p align="center">
-```
-
-[~~~`<img class="logo" src="/assets/github.png">`~~~](https://github.com/matteodefra) [~~~`<img class="logo" src="/assets/linkedin.png"/>`~~~](https://www.linkedin.com/in/matteo-de-francesco-511963152/)
-
-```
+~~~
+<p align="center" width="100%">
+  <a href="mailto:matteo0598@gmail.com"><img class="logo" src="/assets/gmail.png" width="33%"></a>
+  <a href="https://github.com/matteodefra"><img class="logo" src="/assets/github.png" width="33%"></a>
+  <a href="https://www.linkedin.com/in/matteo-de-francesco-511963152/"><img class="logo" src="/assets/linkedin.png" width="33%"></a>
 </p>
-```
+~~~
 
 \toc
 
 ### Education
 
-```
-  <b>University of Pisa</b><br>
-  <b>MSc</b>, Computer Science - Artificial Intelligence, Feb. 2023<br>
-  
-  <br>
-  <b>University of Pisa</b><br>
-  <b>BSc</b>, Computer Science, Jul. 2020<br>
-  <br>
-```
+
+~~~
+<div class=card-body>
+  <div class="columns">
+      <div class="icon">
+          <img src="/assets/unipi.svg" alt="">
+      </div>
+      <div class="rest">
+          <h4 class="card-title exp-title text-muted mt-0 mb-1"><b>MSc</b> Computer Science - Artificial Intelligence</h4>
+          <h4 class="card-title exp-company text-muted my-0">University of Pisa</h4>
+          <h5 class="text-muted exp-meta">Sep. 2020 – Feb. 2023
+          <!-- <span class=middot-divider></span><span>Palaiseau, France</span> -->
+          </h5>
+      </div>
+  </div>
+  <div class=card-text>
+</div>
+~~~
+
+---
+
+~~~
+<div class=card-body>
+  <div class="columns">
+      <div class="icon">
+          <img src="/assets/unipi.svg" alt="">
+      </div>
+      <div class="rest">
+          <h4 class="card-title exp-title text-muted mt-0 mb-1"><b>BSc</b> Computer Science</h4>
+          <h4 class="card-title exp-company text-muted my-0">University of Pisa</h4>
+          <h5 class="text-muted exp-meta">Sep. 2017 – Jul. 2020
+          <!-- <span class=middot-divider></span><span>Palaiseau, France</span> -->
+          </h5>
+      </div>
+  </div>
+  <div class=card-text>
+</div>
+~~~
 
 ### Experience
 
-```
+~~~
+<div class=card-body>
+  <div class="columns">
+      <div class="icon">
+          <img src="/assets/pasqal.png" alt="">
+      </div>
+      <div class="rest">
+          <h4 class="card-title exp-title text-muted mt-0 mb-1">Quantum Research Intern</h4>
+          <h4 class="card-title exp-company text-muted my-0">PASQAL, Massy</h4>
+          <h5 class="text-muted exp-meta">Mar. 2023 – Oct. 2023
+          <!-- <span class=middot-divider></span><span>Palaiseau, France</span> -->
+          </h5>
+      </div>
+  </div>
+  <div class=card-text>
+</div>
+~~~
+
+* Internship at PASQAL, quantum scale-up located in the Paris area
+* Development of novel register design strategies to represent QUBO problems on the neutral-atom QPU
+* Implementation of an hybrid classical-quantum column generation solution for optimization problems
+
+---
+
+~~~
 <div class=card-body>
   <div class="columns">
       <div class="icon">
@@ -53,22 +98,16 @@ Take a look at my Github and LinkedIn page!
       </div>
   </div>
   <div class=card-text>
-```
+</div>
+~~~
 
 * Internship at the EdF Lab Paris-Saclay, in the OSIRIS (Optimisation Simulation Risques et Statistiques) departement
 * The aim of the internship is to develop my Master's thesis side by side with expert researchers in the Operations Research field
-
-```
-  </div>
-```
-
-```
-</div>
-```
+* Theoretical framework for the parallelization of multiple solvers based on the Bundle Method approach and practical implementation and testing on the Unit Commitment problem
 
 ---
 
-```
+~~~
 <div class=card-body>
   <div class="columns">
       <div class="icon">
@@ -83,22 +122,15 @@ Take a look at my Github and LinkedIn page!
       </div>
   </div>
   <div class=card-text>
-```
+</div>
+~~~
 
 * Been awarded of a scolarship in the context of a national project funded by the Ministry of Justice entitled "Giustizia Agile"
 * The aim of the project is to bring ICT innovations and digitalization into national law courts
 
-```
-  </div>
-```
-
-```
-</div>
-```
-
 ---
 
-```
+~~~
 <div class=card-body>
   <div class="columns">
       <div class="icon">
@@ -114,22 +146,15 @@ Take a look at my Github and LinkedIn page!
       </div>
   </div>
   <div class=card-text>
-```
+</div>
+~~~
 
 * Teaching assistant for the lectures of ”Fundamentals of Computer Science” course of the BSc in Computer Science
 * Providing students the basics of Computer Science, set operation, combinatorics and graph theory
 
-```
-  </div>
-```
-
-```
-</div>
-```
-
 ---
 
-```
+~~~
 <div class=card-body>
   <div class="columns">
       <div class="icon">
@@ -145,23 +170,16 @@ Take a look at my Github and LinkedIn page!
       </div>
   </div>
   <div class=card-text>
-```
+</div>
+~~~
 
 * Teaching assistant for the lectures of ”Mobile Application Development” course of the BSc in Computer Science
 * Created a simple application to let the students familiarize with Android development tools and correct implementation patterns
 * Providing office hours for projects discussion
 
-```
-  </div>
-```
-
-```
-</div>
-```
-
 ---
 
-```
+~~~
 <div class=card-body>
   <div class="columns">
       <div class="icon">
@@ -177,22 +195,15 @@ Take a look at my Github and LinkedIn page!
       </div>
   </div>
   <div class=card-text>
-```
+</div>
+~~~
 
 * Teaching assistant for the lectures of ”Fundamentals of Computer Science” course of the BSc in Computer Science
 * Providing students the basics of Computer Science, set operation, combinatorics and graph theory
 
-```
-  </div>
-```
-
-```
-</div>
-```
-
 ---
 
-```
+~~~
 <div class=card-body>
   <div class="columns">
       <div class="icon">
@@ -208,7 +219,8 @@ Take a look at my Github and LinkedIn page!
       </div>
   </div>
   <div class=card-text>
-```
+</div>
+~~~
 
 * BSc thesis work
 * Developed a Machine Learning framework for the classification of topics on StackOverflow
@@ -216,17 +228,9 @@ Take a look at my Github and LinkedIn page!
 * Exploited the famous Word2Vec model
 * Tested classic statistical Machine Learning method, to NLP attention models
 
-```
-  </div>
-```
-
-```
-</div>
-```
-
 ---
 
-```
+~~~
 <div class=card-body>
   <div class="columns">
       <div class="icon">
@@ -242,20 +246,14 @@ Take a look at my Github and LinkedIn page!
       </div>
   </div>
   <div class=card-text>
-```
+</div>
+~~~
 
 * 6 months of part-time work
 * Developed a mobile application for the travel agency ”Omega Travel”
 * Applied software engineering approach: development of use cases, architecture design and implementation
 * Exploited the Flutter framework and Dart language
 
-```
-  </div>
-```
-
-```
-</div>
-```
 
 <!-- #### Publications
 
