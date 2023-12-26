@@ -25,6 +25,7 @@ The picture above show exactly a simple 3D illustration of what we mean: a parab
 Source: [GitHub](https://github.com/matteodefra/Parallel_Boruvka)
 
 ![Boruvka](/assets/project_pics/boruvka.png)
+*Credits: [here](https://upload.wikimedia.org/wikipedia/commons/d/d2/Minimum_spanning_tree.svg)*
 
 Parallel and Distributed System course. A parallel implementation of the ”Boruvka algorithm”, for finding the Minimum Spanning Tree of a given graph. I studied topics from the original paper, and I exploited also an ad hoc data structure to deal with this kind of problem, known as ”Disjoint Sets”. I exploited the C++ language and its basic functionalities
 
@@ -34,7 +35,8 @@ Parallel and Distributed System course. A parallel implementation of the ”Boru
 
 Source: [GitHub](https://github.com/matteodefra/ISPR_assignments)
 
-![ISPR](/assets/project_pics/ispr.png)
+![ISPR](/assets/project_pics/vae.png)
+*Credits: [here](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Reparameterized_Variational_Autoencoder.png/300px-Reparameterized_Variational_Autoencoder.png)*
 
 Assignments for the course "Intelligent Systems for Pattern Recognition". The picture resumes the 4 different topics treated in the assignments:
 - Analysis of a time series, study of stationarity/nonstationarity and fitting of an ARMA model;
@@ -49,7 +51,8 @@ Everything was implemented in Python language through the use of notebooks
 
 Source: [GitHub](https://github.com/matteodefra/GoEmotions)
 
-![BERT](/assets/project_pics/bert.jpeg)
+![BERT](/assets/project_pics/bert.png)
+*Credits: [here](https://cdn-images-1.medium.com/max/1500/1*g1KBCVCITjrd9IJ7AyFqdw.png)*
 
 Exploited different BERT based models for a sentiment analysis task over the GoEmotions dataset.
 
@@ -60,6 +63,7 @@ Exploited different BERT based models for a sentiment analysis task over the GoE
 Source: [GitHub](https://github.com/matteodefra/csrae)
 
 ![CSRAE](/assets/project_pics/csrae.png)
+*Credits: [here](https://bookdown.org/phamtrongthang123/notebookCEVAE/imgs/2020-04-12-10-49-37.png)*
 
 Implementation of a Cauchy-Schwarz Regularized Autoencoder. Following the paper from [arxiv](https://arxiv.org/pdf/2101.02149.pdf), I implemented a variational autoencoder based on the Cauchy-Schwarz divergence, exploiting the PyTorch library. The more versatility of the divergence allows for the use of more complex priors like a gaussian mixture models against the normal gaussian used.
 
