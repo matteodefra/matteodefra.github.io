@@ -23,6 +23,25 @@
 
 <item>
   <title>
+    <![CDATA[  404  ]]>
+  </title>
+  <link> https://matteodefra.github.io/404.html </link>
+  <guid> https://matteodefra.github.io/404.html </guid>
+  <description>
+    <![CDATA[  Page not found  ]]>
+  </description>  
+    
+  <pubDate>Tue, 26 Dec 2023 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Matteo De Francesco</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
     <![CDATA[  Home  ]]>
   </title>
   <link> https://matteodefra.github.io/index.html </link>
@@ -31,45 +50,7 @@
     <![CDATA[  Blog posts about computer science, mathematics, research and related topics  ]]>
   </description>  
     
-  <pubDate>Sat, 14 Oct 2023 00:00:00 +0000</pubDate>  
-  
-  
-  <atom:author>
-    <atom:name>Matteo De Francesco</atom:name>
-  </atom:author>
-        
-</item>
-
-<item>
-  <title>
-    <![CDATA[  About  ]]>
-  </title>
-  <link> https://matteodefra.github.io/about/index.html </link>
-  <guid> https://matteodefra.github.io/about/index.html </guid>
-  <description>
-    <![CDATA[  About Me  ]]>
-  </description>  
-    
-  <pubDate>Sat, 14 Oct 2023 00:00:00 +0000</pubDate>  
-  
-  
-  <atom:author>
-    <atom:name>Matteo De Francesco</atom:name>
-  </atom:author>
-        
-</item>
-
-<item>
-  <title>
-    <![CDATA[  Posts  ]]>
-  </title>
-  <link> https://matteodefra.github.io/blog/index.html </link>
-  <guid> https://matteodefra.github.io/blog/index.html </guid>
-  <description>
-    <![CDATA[  My Posts  ]]>
-  </description>  
-    
-  <pubDate>Sat, 14 Oct 2023 00:00:00 +0000</pubDate>  
+  <pubDate>Tue, 26 Dec 2023 00:00:00 +0000</pubDate>  
   
   
   <atom:author>
@@ -88,7 +69,7 @@
     <![CDATA[  My personal projects  ]]>
   </description>  
     
-  <pubDate>Sat, 14 Oct 2023 00:00:00 +0000</pubDate>  
+  <pubDate>Tue, 26 Dec 2023 00:00:00 +0000</pubDate>  
   
   
   <atom:author>
@@ -99,15 +80,34 @@
 
 <item>
   <title>
-    <![CDATA[  404  ]]>
+    <![CDATA[  About  ]]>
   </title>
-  <link> https://matteodefra.github.io/404.html </link>
-  <guid> https://matteodefra.github.io/404.html </guid>
+  <link> https://matteodefra.github.io/about/index.html </link>
+  <guid> https://matteodefra.github.io/about/index.html </guid>
   <description>
-    <![CDATA[  Page not found  ]]>
+    <![CDATA[  About Me  ]]>
   </description>  
     
-  <pubDate>Sat, 14 Oct 2023 00:00:00 +0000</pubDate>  
+  <pubDate>Tue, 26 Dec 2023 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Matteo De Francesco</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  Posts  ]]>
+  </title>
+  <link> https://matteodefra.github.io/blog/index.html </link>
+  <guid> https://matteodefra.github.io/blog/index.html </guid>
+  <description>
+    <![CDATA[  My Posts  ]]>
+  </description>  
+    
+  <pubDate>Tue, 26 Dec 2023 00:00:00 +0000</pubDate>  
   
   
   <atom:author>
