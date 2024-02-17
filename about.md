@@ -4,7 +4,7 @@ rss = "About Me"
 image = "/assets/about/output/basic-plot.svg"
 +++
 
-Graduated student in Computer Science at University of Pisa. Contact me and feel free to have a look at my Github and LinkedIn page!
+PhD student in Computer Science at University of Geneva. Feel free to reach me out and have a look at my Github and LinkedIn page!
 
 ~~~
 <p align="center" width="100%">
@@ -18,6 +18,26 @@ Graduated student in Computer Science at University of Pisa. Contact me and feel
 
 ### Education
 
+
+~~~
+<div class=card-body>
+  <div class="columns">
+      <div class="icon">
+          <img src="/assets/unige.png" alt="">
+      </div>
+      <div class="rest">
+          <h4 class="card-title exp-title text-muted mt-0 mb-1"><b>PhD</b> Computer Science</h4>
+          <h4 class="card-title exp-company text-muted my-0">University of Geneva</h4>
+          <h5 class="text-muted exp-meta">Oct. 2023 – ongoing
+          <!-- <span class=middot-divider></span><span>Geneva, Switzerland</span> -->
+          </h5>
+      </div>
+  </div>
+  <div class=card-text>
+</div>
+~~~
+
+---
 
 ~~~
 <div class=card-body>
@@ -58,6 +78,30 @@ Graduated student in Computer Science at University of Pisa. Contact me and feel
 ~~~
 
 ### Experience
+
+
+~~~
+<div class=card-body>
+  <div class="columns">
+      <div class="icon">
+          <img src="/assets/unige.png" alt="">
+      </div>
+      <div class="rest">
+          <h4 class="card-title exp-title text-muted mt-0 mb-1">Teaching Assistant</h4>
+          <h4 class="card-title exp-company text-muted my-0">University of Geneva, Switzerland</h4>
+          <h5 class="text-muted exp-meta">Oct. 2023 – ongoing
+          <!-- <span class=middot-divider></span><span>Geneva, Switzerland</span> -->
+          </h5>
+      </div>
+  </div>
+  <div class=card-text>
+</div>
+~~~
+
+* Teaching assistant during PhD studies at the University of Geneva, Switzerland
+* Exercises classes for the course "Calcolability and Complexity" of the B.Sc. in Computer Science
+
+---
 
 ~~~
 <div class=card-body>
