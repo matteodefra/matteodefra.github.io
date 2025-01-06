@@ -98,8 +98,8 @@ PhD student in Computer Science at University of Geneva. Feel free to reach me o
 </div>
 ~~~
 
-* Teaching assistant during PhD studies at the University of Geneva, Switzerland
-* Exercises classes for the course "Calcolability and Complexity" of the B.Sc. in Computer Science
+* Teaching assistant for the courses "Calcolability and Complexity" and "Formal Languages" of the B.Sc. in Computer Science
+* Teaching assistant for the course "Graph Algorithms" of the M.Sc. in Computer Science
 
 ---
 

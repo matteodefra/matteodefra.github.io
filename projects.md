@@ -1,7 +1,7 @@
 +++
 title = "Projects"
 rss = "My personal projects"
-image = "/assets/icon.png"
+image = "/assets/icon.jpeg"
 +++
 
 # Projects

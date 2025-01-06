@@ -1,7 +1,7 @@
 +++
 title = "Posts"
 rss = "My Posts"
-image = "/assets/icon.png"
+image = "/assets/icon.jpeg"
 +++
 
 ## Posts
