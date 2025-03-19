@@ -8,7 +8,7 @@ PhD student in Computer Science at University of Geneva. Feel free to reach me o
 
 ~~~
 <p align="center" width="100%">
-  <a href="mailto:matteo0598@gmail.com"><img class="logo" src="/assets/gmail.png" width="33%"></a>
+  <a href="mailto:matteo.defrancesco@unige.ch"><img class="logo" src="/assets/gmail.png" width="33%"></a>
   <a href="https://github.com/matteodefra"><img class="logo" src="/assets/github.png" width="33%"></a>
   <a href="https://www.linkedin.com/in/matteo-de-francesco-511963152/"><img class="logo" src="/assets/linkedin.png" width="33%"></a>
 </p>

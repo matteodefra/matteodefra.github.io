@@ -23,44 +23,6 @@
 
 <item>
   <title>
-    <![CDATA[  404  ]]>
-  </title>
-  <link> https://matteodefra.github.io/404/index.html </link>
-  <guid> https://matteodefra.github.io/404/index.html </guid>
-  <description>
-    <![CDATA[  Page not found  ]]>
-  </description>  
-    
-  <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>  
-  
-  
-  <atom:author>
-    <atom:name>Matteo De Francesco</atom:name>
-  </atom:author>
-        
-</item>
-
-<item>
-  <title>
-    <![CDATA[  Posts  ]]>
-  </title>
-  <link> https://matteodefra.github.io/blog/index.html </link>
-  <guid> https://matteodefra.github.io/blog/index.html </guid>
-  <description>
-    <![CDATA[  My Posts  ]]>
-  </description>  
-    
-  <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>  
-  
-  
-  <atom:author>
-    <atom:name>Matteo De Francesco</atom:name>
-  </atom:author>
-        
-</item>
-
-<item>
-  <title>
     <![CDATA[  Home  ]]>
   </title>
   <link> https://matteodefra.github.io/index.html </link>
@@ -69,7 +31,7 @@
     <![CDATA[  Blog posts about computer science, mathematics, research and related topics  ]]>
   </description>  
     
-  <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>  
+  <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>  
   
   
   <atom:author>
@@ -88,7 +50,26 @@
     <![CDATA[  About Me  ]]>
   </description>  
     
-  <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>  
+  <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Matteo De Francesco</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  Posts  ]]>
+  </title>
+  <link> https://matteodefra.github.io/blog/index.html </link>
+  <guid> https://matteodefra.github.io/blog/index.html </guid>
+  <description>
+    <![CDATA[  My Posts  ]]>
+  </description>  
+    
+  <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>  
   
   
   <atom:author>
@@ -107,7 +88,26 @@
     <![CDATA[  My personal projects  ]]>
   </description>  
     
-  <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>  
+  <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Matteo De Francesco</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  404  ]]>
+  </title>
+  <link> https://matteodefra.github.io/404.html </link>
+  <guid> https://matteodefra.github.io/404.html </guid>
+  <description>
+    <![CDATA[  Page not found  ]]>
+  </description>  
+    
+  <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>  
   
   
   <atom:author>
