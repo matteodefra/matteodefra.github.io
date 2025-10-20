@@ -99,7 +99,7 @@ PhD student in Computer Science at University of Geneva. Feel free to reach me o
 ~~~
 
 * Teaching assistant for the courses "Calcolability and Complexity" and "Formal Languages" of the B.Sc. in Computer Science
-* Teaching assistant for the course "Graph Algorithms" of the M.Sc. in Computer Science
+* Teaching assistant for the courses "Semantics Verification and Modelling" and "Graph Algorithms" of the M.Sc. in Computer Science
 
 ---
 

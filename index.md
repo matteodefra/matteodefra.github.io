@@ -11,7 +11,8 @@ image = "/assets/icon.jpeg"
 ~~~
 
 I am a second year PhD student at the [ALGO team](https://algo.unige.ch/) group at the [University of Geneva](https://www.unige.ch/dinfo/en/), advised by [Arnaud Casteigts](https://arnaudcasteigts.net/).
-My research focuses on algorithms for graph problems and motion planning problems, with a focus on computational complexity and probabilistic approaches. I am also interested in quantum computing and learning theory, and the generation of intermediately-hard instances that may help demonstrating quantum advantage.
+I am interested in the design and analysis of algorithms for graph problems and quantum computing, and the impact of the latter on the broad aspects of computational complexity.
+Recently, I worked on algorithms for motion planning problems, generation of hard-instances for quantum computing and probabilistic process in random graphs.
 
 I obtained my Master's Degree in Computer Science, with a specialization in AI and Applied Math, at University of Pisa, Italy.
 
