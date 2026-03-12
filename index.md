@@ -11,10 +11,10 @@ image = "/assets/icon.jpeg"
 ~~~
 
 I am a second year PhD student at the [ALGO team](https://algo.unige.ch/) group at the [University of Geneva](https://www.unige.ch/dinfo/en/), advised by [Arnaud Casteigts](https://arnaudcasteigts.net/).
-I am interested in the design and analysis of algorithms for graph problems and quantum computing, and the impact of the latter on the broad aspects of computational complexity.
+I am interested in the design and analysis of algorithms for graph problems and quantum computing, and the impact of the latter on the broad aspects of computational complexity and cryptography.
 Recently, I worked on algorithms for motion planning problems, generation of hard-instances for quantum computing and probabilistic process in random graphs.
 
-I obtained my Master's Degree in Computer Science, with a specialization in AI and Applied Math, at University of Pisa, Italy.
+I obtained both my B.Sc. and M.Sc. in Computer Science at the University of Pisa, Italy.
 
 From September 2022 to October 2023, I was an intern in the OSIRIS (Optimization and simulation under risks) Lab at Électricité de France (EdF), and after in the Graph Optimization Team at PASQAL.
 

@@ -1,7 +1,7 @@
 +++
 generate_rss = true
 website_title = "Welcome"
-website_descr = "A blog about statistics, programming and more"
+website_descr = "A blog about computer science, quantum computing, computational complexity and cryptography!"
 website_url = "https://matteodefra.github.io"
 
 author = "Matteo De Francesco"
