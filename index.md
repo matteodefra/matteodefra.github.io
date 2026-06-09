@@ -16,7 +16,7 @@ Recently, I worked on algorithms for motion planning problems, generation of har
 
 I obtained both my B.Sc. and M.Sc. in Computer Science at the University of Pisa, Italy.
 
-From September 2022 to October 2023, I was an intern in the OSIRIS (Optimization and simulation under risks) Lab at Électricité de France (EdF), and after in the Graph Optimization Team at PASQAL.
+From September 2022 to October 2023, I was an intern in the OSIRIS (Optimization and simulation under risks) Lab at Électricité de France (EdF), and after in the Quantum Graph Optimization Team at PASQAL.
 
 Take a look at [about](/about) for more detailed information.
 
