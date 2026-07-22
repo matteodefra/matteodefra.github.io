@@ -4,11 +4,10 @@ rss = "About Me"
 image = "/assets/about/output/basic-plot.svg"
 +++
 
-PhD student in Computer Science at University of Geneva. Feel free to reach me out and have a look at my Github and LinkedIn page!
+PhD student in Computer Science at University of Geneva. Feel free to reach me out at _name_._0598_at_gmail.com_ and have a look at my Github and LinkedIn page!
 
 ~~~
 <p align="center" width="100%">
-  <a href="mailto:matteo.defrancesco@unige.ch"><img class="logo" src="/assets/gmail.png" width="33%"></a>
   <a href="https://github.com/matteodefra"><img class="logo" src="/assets/github.png" width="33%"></a>
   <a href="https://www.linkedin.com/in/matteo-de-francesco-511963152/"><img class="logo" src="/assets/linkedin.png" width="33%"></a>
 </p>
