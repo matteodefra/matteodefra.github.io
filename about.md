@@ -4,7 +4,7 @@ rss = "About Me"
 image = "/assets/about/output/basic-plot.svg"
 +++
 
-PhD student in Computer Science at University of Geneva. Feel free to reach me out at _name_._0598_at_gmail.com_ and have a look at my Github and LinkedIn page!
+PhD student in Computer Science at University of Geneva. Feel free to reach me out at _name_.0598 at gmail.com and have a look at my Github and LinkedIn page!
 
 ~~~
 <p align="center" width="100%">
