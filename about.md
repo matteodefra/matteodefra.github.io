@@ -4,7 +4,7 @@ rss = "About Me"
 image = "/assets/about/output/basic-plot.svg"
 +++
 
-PhD student in Computer Science at University of Geneva. Feel free to reach me out at _name_.0598 at gmail.com and have a look at my Github and LinkedIn page!
+PhD student in Computer Science at University of Geneva. Feel free to reach me out at _name.0598 "at" gmail.com_ and have a look at my Github and LinkedIn page!
 
 ~~~
 <p align="center" width="100%">
@@ -27,7 +27,7 @@ PhD student in Computer Science at University of Geneva. Feel free to reach me o
       <div class="rest">
           <h4 class="card-title exp-title text-muted mt-0 mb-1"><b>PhD</b> Computer Science</h4>
           <h4 class="card-title exp-company text-muted my-0">University of Geneva</h4>
-          <h5 class="text-muted exp-meta">Oct. 2023 – ongoing
+          <h5 class="text-muted exp-meta">Jan. 2024 – ongoing
           <!-- <span class=middot-divider></span><span>Geneva, Switzerland</span> -->
           </h5>
       </div>
@@ -88,7 +88,7 @@ PhD student in Computer Science at University of Geneva. Feel free to reach me o
       <div class="rest">
           <h4 class="card-title exp-title text-muted mt-0 mb-1">Teaching Assistant</h4>
           <h4 class="card-title exp-company text-muted my-0">University of Geneva, Switzerland</h4>
-          <h5 class="text-muted exp-meta">Oct. 2023 – ongoing
+          <h5 class="text-muted exp-meta">Jan. 2024 – ongoing
           <!-- <span class=middot-divider></span><span>Geneva, Switzerland</span> -->
           </h5>
       </div>

@@ -10,7 +10,7 @@ image = "/assets/icon.jpeg"
 </center>
 ~~~
 
-I am a second year PhD student at the [ALGO team](https://algo.unige.ch/) group at the [University of Geneva](https://www.unige.ch/dinfo/en/), advised by [Arnaud Casteigts](https://arnaudcasteigts.net/).
+I am a third year PhD student at the [ALGO team](https://algo.unige.ch/) group at the [University of Geneva](https://www.unige.ch/dinfo/en/), advised by [Arnaud Casteigts](https://arnaudcasteigts.net/).
 I am broadly interested in theoretical computer science, with a particolar focus on quantum complexity and cryptography.
 Recently, I worked on algorithms for motion planning problems, generation of hard-instances for quantum computing and probabilistic process in random graphs.
 
@@ -21,6 +21,11 @@ From September 2022 to October 2023, I was an intern in the OSIRIS (Optimization
 Take a look at [about](/about) for more detailed information.
 
 You can download my CV [here](assets/CV.pdf)
+
+## Talks
+
+- [Quantum computing: A historical overview and recent frontiers](assets/quantum_overview.pdf) - Talk given at the ALGO Seminar of the UNIGE (May 2026)
+- [Optimal Trajectories in Discrete Space with Acceleration Constraints](assets/racetrack.pdf) - Talk given at [MoMA (Modern Optimization Methods and Models in Algorithm Design)](https://www.irif.fr/moma) in Aussois, France (November 2025) and ALGO Seminar (February 2026)
 
 <!-- ## Current Experience
 
