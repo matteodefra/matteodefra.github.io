@@ -1,13 +1,21 @@
 +++
 title = "Home"
+hasmath = false
+hascode = false
 rss = "Blog posts about computer science, mathematics, research and related topics"
 image = "/assets/icon.jpeg"
 +++
 
 ~~~
 <center>
+<div class="circular">
 <img class="avatar-image" src="/assets/icon.jpeg"/>
+</div>
 </center>
+~~~
+
+~~~
+<div style="height: 40px;"></div>
 ~~~
 
 I am a third year PhD student at the [ALGO team](https://algo.unige.ch/) group at the [University of Geneva](https://www.unige.ch/dinfo/en/), advised by [Arnaud Casteigts](https://arnaudcasteigts.net/).

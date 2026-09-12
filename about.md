@@ -4,12 +4,16 @@ rss = "About Me"
 image = "/assets/about/output/basic-plot.svg"
 +++
 
+~~~
+<div style="height: 40px;"></div>
+~~~
+
 PhD student in Computer Science at University of Geneva. Feel free to reach me out at _name.0598 "at" gmail.com_ and have a look at my Github and LinkedIn page!
 
 ~~~
 <p align="center" width="100%">
-  <a href="https://github.com/matteodefra"><img class="logo" src="/assets/github.png" width="33%"></a>
-  <a href="https://www.linkedin.com/in/matteo-de-francesco-511963152/"><img class="logo" src="/assets/linkedin.png" width="33%"></a>
+  <a href="https://github.com/matteodefra"><img class="logo" src="/assets/github.png" width="50px"></a>
+  <a href="https://www.linkedin.com/in/matteo-de-francesco-511963152/"><img class="logo" src="/assets/linkedin.png" width="50px"></a>
 </p>
 ~~~
 
@@ -22,7 +26,7 @@ PhD student in Computer Science at University of Geneva. Feel free to reach me o
 <div class=card-body>
   <div class="columns">
       <div class="icon">
-          <img src="/assets/unige.png" alt="">
+          <img src="/assets/unige.png" alt="" width="50px">
       </div>
       <div class="rest">
           <h4 class="card-title exp-title text-muted mt-0 mb-1"><b>PhD</b> Computer Science</h4>
@@ -42,7 +46,7 @@ PhD student in Computer Science at University of Geneva. Feel free to reach me o
 <div class=card-body>
   <div class="columns">
       <div class="icon">
-          <img src="/assets/unipi.svg" alt="">
+          <img src="/assets/unipi.svg" alt=""  width="50px">
       </div>
       <div class="rest">
           <h4 class="card-title exp-title text-muted mt-0 mb-1"><b>MSc</b> Computer Science - Artificial Intelligence</h4>
@@ -62,7 +66,7 @@ PhD student in Computer Science at University of Geneva. Feel free to reach me o
 <div class=card-body>
   <div class="columns">
       <div class="icon">
-          <img src="/assets/unipi.svg" alt="">
+          <img src="/assets/unipi.svg" alt=""  width="50px">
       </div>
       <div class="rest">
           <h4 class="card-title exp-title text-muted mt-0 mb-1"><b>BSc</b> Computer Science</h4>
@@ -83,7 +87,7 @@ PhD student in Computer Science at University of Geneva. Feel free to reach me o
 <div class=card-body>
   <div class="columns">
       <div class="icon">
-          <img src="/assets/unige.png" alt="">
+          <img src="/assets/unige.png" alt=""  width="50px">
       </div>
       <div class="rest">
           <h4 class="card-title exp-title text-muted mt-0 mb-1">Teaching Assistant</h4>
@@ -106,7 +110,7 @@ PhD student in Computer Science at University of Geneva. Feel free to reach me o
 <div class=card-body>
   <div class="columns">
       <div class="icon">
-          <img src="/assets/pasqal.png" alt="">
+          <img src="/assets/pasqal.png" alt="" width="50px">
       </div>
       <div class="rest">
           <h4 class="card-title exp-title text-muted mt-0 mb-1">Quantum Research Intern</h4>
@@ -130,7 +134,7 @@ PhD student in Computer Science at University of Geneva. Feel free to reach me o
 <div class=card-body>
   <div class="columns">
       <div class="icon">
-          <img src="/assets/edf-2.svg" alt="">
+          <img src="/assets/edf-2.svg" alt="" width="50px">
       </div>
       <div class="rest">
           <h4 class="card-title exp-title text-muted mt-0 mb-1">Research Intern</h4>
@@ -154,7 +158,7 @@ PhD student in Computer Science at University of Geneva. Feel free to reach me o
 <div class=card-body>
   <div class="columns">
       <div class="icon">
-          <img src="/assets/unipi.svg" alt="">
+          <img src="/assets/unipi.svg" alt="" width="50px">
       </div>
       <div class="rest">
           <h4 class="card-title exp-title text-muted mt-0 mb-1">Research Fellow</h4>
@@ -177,7 +181,7 @@ PhD student in Computer Science at University of Geneva. Feel free to reach me o
 <div class=card-body>
   <div class="columns">
       <div class="icon">
-          <img src="/assets/unipi.svg" alt="">
+          <img src="/assets/unipi.svg" alt="" width="50px">
       </div>
       <div class="rest">
           <h4 class="card-title exp-title text-muted mt-0 mb-1">Teaching Assistant</h4>
@@ -201,7 +205,7 @@ PhD student in Computer Science at University of Geneva. Feel free to reach me o
 <div class=card-body>
   <div class="columns">
       <div class="icon">
-          <img src="/assets/unipi.svg" alt="">
+          <img src="/assets/unipi.svg" alt="" width="50px">
       </div>
       <div class="rest">
           <h4 class="card-title exp-title text-muted mt-0 mb-1">Teaching Assistant</h4>
@@ -226,7 +230,7 @@ PhD student in Computer Science at University of Geneva. Feel free to reach me o
 <div class=card-body>
   <div class="columns">
       <div class="icon">
-          <img src="/assets/unipi.svg" alt="">
+          <img src="/assets/unipi.svg" alt="" width="50px">
       </div>
       <div class="rest">
           <h4 class="card-title exp-title text-muted mt-0 mb-1">Teaching Assistant</h4>
@@ -250,7 +254,7 @@ PhD student in Computer Science at University of Geneva. Feel free to reach me o
 <div class=card-body>
   <div class="columns">
       <div class="icon">
-          <img src="/assets/unipi.svg" alt="">
+          <img src="/assets/unipi.svg" alt="" width="50px">
       </div>
       <div class="rest">
           <h4 class="card-title exp-title text-muted mt-0 mb-1">Research Intern</h4>
@@ -277,7 +281,7 @@ PhD student in Computer Science at University of Geneva. Feel free to reach me o
 <div class=card-body>
   <div class="columns">
       <div class="icon">
-          <img src="/assets/ot2.svg" alt="">
+          <img src="/assets/ot2.svg" alt="" width="50px">
       </div>
       <div class="rest">
           <h4 class="card-title exp-title text-muted mt-0 mb-1">Mobile App Developer</h4>
