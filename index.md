@@ -11,8 +11,8 @@ image = "/assets/icon.jpeg"
 ~~~
 
 I am a third year PhD student at the [ALGO team](https://algo.unige.ch/) group at the [University of Geneva](https://www.unige.ch/dinfo/en/), advised by [Arnaud Casteigts](https://arnaudcasteigts.net/).
-I am broadly interested in theoretical computer science, with a particolar focus on quantum complexity and cryptography.
-Recently, I worked on algorithms for motion planning problems, generation of hard-instances for quantum computing and probabilistic process in random graphs.
+I am broadly interested in theoretical computer science, with a particolar focus in the intersection of quantum computing and graph theory.
+Recently, I worked on algorithms for motion planning problems and probabilistic process in random graphs.
 
 I obtained both my B.Sc. and M.Sc. in Computer Science at the University of Pisa, Italy.
 
